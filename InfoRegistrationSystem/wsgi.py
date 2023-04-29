@@ -14,7 +14,7 @@ from django.core.wsgi import get_wsgi_application
 import sys
 
 sys.path.append('C:\\Users\\Dina Ibrahim\\PycharmProjects\\InfoRegistrationSystem\\InfoRegistrationSystem')
-sys.path.append('C:\\Users\\Dina Ibrahim\\PycharmProjects\\InfoRegistrationSystem\\InfoRegistrationSystem\\registerApp')
+sys.path.append('C:\\Users\\Dina Ibrahim\\PycharmProjects\\InfoRegistrationSystem\\registerApp')
 
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'InfoRegistrationSystem.settings')
 
