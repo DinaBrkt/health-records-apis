@@ -20,3 +20,5 @@ class HealthRecord(models.Model):
     image = models.ImageField(upload_to=CustomStorage.custom_upload_to)
 
 
+
+
